@@ -9,9 +9,6 @@ subtitle: Welcome nice to meet you!
 description: For my Future
 author:
   name: "Data랑 친해지고 싶은 청춘 대학생"
-  avatar: "/assets/images/IMG_6849_1.jpg"
-  bio: "만나서 반갑습니다 ^-^"
-  location: "South Korea"
 
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
