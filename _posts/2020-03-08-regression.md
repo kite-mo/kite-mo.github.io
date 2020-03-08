@@ -16,7 +16,6 @@ tags:
 	* Step 1.2 다중 선형 회귀 분석
 -  Step2. 가설(Hypothesis) 이란
 -  Step3. 비용 함수( Cost function)
-
 -  Step4.  Optimizer : 경사하강법(Gradient Descent)
 
 
@@ -115,6 +114,7 @@ $W := W - α\frac{∂}{∂W}cost(W)$
 
 ## 참고 자료
 [https://wikidocs.net/21670](https://wikidocs.net/21670)
+https://creativecommons.org/licenses/by-nc-sa/2.0/kr/
 
 [http://hleecaster.com/ml-linear-regression-concept/](http://hleecaster.com/ml-linear-regression-concept/)
 
