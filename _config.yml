@@ -8,7 +8,7 @@ title: kite_mo
 subtitle: Welcome nice to meet you!
 description: For my Future
 author:
-  name: "Data랑 친해지고 싶은 청춘 대학생"
+  "Data랑 친해지고 싶은 청춘 대학생"
 
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -146,8 +146,6 @@ menu_icons:
   commonweal: heartbeat
 
 
-
-
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -205,8 +203,6 @@ font:
     size:
 
 
-
-
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
@@ -215,8 +211,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  GitHub: https://github.com/kite-mo
 
 
 # Social Links Icons
@@ -234,9 +230,8 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
-#avatar:
-
+ #in directory: /assets/images/profile.gif
+  avatar : /assets/images/profile.jpg
 
 # Table Of Contents in the Sidebar
 toc:
