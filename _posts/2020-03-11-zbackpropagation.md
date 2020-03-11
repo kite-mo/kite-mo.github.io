@@ -172,7 +172,10 @@ $$E_{total}=E_{o1}+E_{o2}=0.02323634$$
 약 0.006의 오차가 감소함을 확인할 수 있다. 이렇게 인공신경망의 학습은 
 **오차를 최소화하는 가중치를 찾는 목적으로 순전파와 역전파를 반복하는 것을 의미한다.** 
 
+## 참고자료
 
+[https://wikidocs.net/24958](https://wikidocs.net/24958) 
+[https://creativecommons.org/licenses/by-nc-sa/2.0/kr/](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/)
 
 
 
