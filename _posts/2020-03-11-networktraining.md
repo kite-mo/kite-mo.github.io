@@ -101,8 +101,9 @@ $\frac{ dy }{ dx } = \frac{ dt }{ dx } \frac{ dy }{ dt }$ 가 성립한다.
 
 한 가지 예시를 더 들어보자.
 
-$t = x + y$
-$z = t^2$
+$$t = x + y$$
+
+$$z = t^2$$
 
 $$\frac{ dz }{ dx } = \frac{ dz }{ dt } \frac{ dt }{ dx }$$
 
