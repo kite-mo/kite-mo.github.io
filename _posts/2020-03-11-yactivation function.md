@@ -7,8 +7,11 @@ tags:
  - Study, Deep learning
  
 ---
+
+
 # 활성화 함수(Activation function)
 ### 목차
+
 
 -  Step 1. 활성화 함수(Activation function)
 	 *  활성화 함수 특징
