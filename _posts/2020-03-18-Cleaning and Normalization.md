@@ -1,5 +1,5 @@
 ﻿---  
-title:  "Cleaning(정제) and Nomalization(정규화)"  
+title:  "Cleaning and Nomalization"  
   
 categories:  
  - NLP

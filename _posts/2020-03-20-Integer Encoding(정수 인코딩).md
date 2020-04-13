@@ -1,11 +1,11 @@
 ﻿---  
-title:  "정수 인코딩(Integer Encoding)"  
+title:  "Interget Encoding"  
   
 categories:  
  - NLP
 tags:  
  - Study, NLP, Deep learning
- 
+                                          
 ---
 
 # 정수 인코딩(Integer Encoding)

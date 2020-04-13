@@ -1,5 +1,5 @@
 ﻿---  
-title:  "Stemming(어간 추출) and Lemmatization(표제어 추출)"  
+title:  "Stemming and Lemmatization"  
   
 categories:  
  - NLP
