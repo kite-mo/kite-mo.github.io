@@ -1,5 +1,5 @@
 ﻿---  
-title:  "데이터 요약 및 시각화 in python"  
+title:  "1. 데이터 요약 및 시각화 in python"  
   
 categories:  
  - Python
@@ -8,7 +8,7 @@ tags:
  
 ---
 
-# 데이터 요약 및 시각화 in python
+# 1. 데이터 요약 및 시각화 in python
 ### 목차
 -  Step 0. 개요
 -  Step 1. pandas를 활용한 데이터 관리
